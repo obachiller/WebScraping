@@ -1,7 +1,7 @@
-**Web Scraping Journal of Learning Analytics**
+#**Web Scraping Journal of Learning Analytics**
 
 
-**Descripción**
+##**Descripción**
 
 Esta Wiki forma parte del desarrollo de la práctica 1 de la asignatura de Tipología y ciclo de vida de los datos, del Máster en Ciencia de Datos en la Universitat Oberta de Catalunya.
 
@@ -11,15 +11,15 @@ El lenguaje de imlementación fue Python y haciendo uso principalmente de las li
 
 El entorno seleccionado correspondió con el Journal of Learning Analytics https://learning-analytics.info/journals/index.php/JLA
 
-**Miembro del equipo**
+##**Miembro del equipo**
 
 Oscar Javier Bachiller Sandoval
 
-**Carpetas**
+##**Carpetas**
 
-Dataset: al interior se encuentra el dataset generado a partir del procedimiento de Web Scrapiong y que contiene los datos extraídos
+**Dataset:** al interior se encuentra el dataset generado a partir del procedimiento de Web Scrapiong y que contiene los datos extraídos
 
-Notebooks: al interior se encuentras tres archivos de tipo jupyter notebook
+**Notebooks:** al interior se encuentras tres archivos de tipo jupyter notebook
 
 Practica API UOC Oscar Bachiller.ipynb corresponde con el uso de una API para el acceso a datos provista por HackerNews
 
