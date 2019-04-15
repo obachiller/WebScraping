@@ -3,7 +3,7 @@
 
 **Descripción**
 
-Esta Wiki forma parte del desarrollo de la práctica 1 de la asignatura de Tipología y ciclo de vida de los datos, del Máster en Ciencia de Datos en la Universitat Oberta de Catalunya.
+Este espacio forma parte del desarrollo de la práctica 1 de la asignatura de Tipología y ciclo de vida de los datos, del Máster en Ciencia de Datos en la Universitat Oberta de Catalunya.
 
 Dicha práctica consistió en la puesta en marcha de un escenario para la recolección de datos que se encuentran en la Web, mediante un procedimiento de Web Scraping.
 
